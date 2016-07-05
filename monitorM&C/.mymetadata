@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="monitorM&amp;C"
+  id="myeclipse.1467729740146"
+  context-root="/monitorM&amp;C"
+  j2ee-spec="5.0"
+  archive="monitorM&amp;C.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
